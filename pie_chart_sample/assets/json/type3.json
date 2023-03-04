@@ -1,0 +1,15 @@
+{
+  "Budget": [
+    {
+      "MoneyLeft": [
+        -2000.345
+      ],
+      
+      "food" : 200.0,
+      "recharges" : 400.0,
+      "travel" : 600.0,
+      "medicine" : 1000.0,
+      "others" : 600.0
+    }
+  ]
+}
